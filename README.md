@@ -32,6 +32,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Slow Games Website](https://github.com/Lucas07918/Slow-Games.git)
+- [Diet Generator](https://github.com/Lucas07918/Gerador-de-Dieta---Projeto.git)
 
 <!-- GIF -->
 <p align="left">
